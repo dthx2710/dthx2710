@@ -1,4 +1,7 @@
 ### Hi I'm Dolicon! 👋
+### Currently studying CS in Singapore
+## I'm bad a coding
+### Discord: Dolicon#8638
 
 <!--
 **dthx2710/dthx2710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
