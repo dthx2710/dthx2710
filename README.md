@@ -1,6 +1,6 @@
 ### Hi I'm Dolicon! 👋
 ### Currently studying CS in Singapore
-## I'm bad a coding
+### I'm bad at coding
 ### Discord: Dolicon#8638
 
 <!--
