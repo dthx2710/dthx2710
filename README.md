@@ -1,5 +1,5 @@
-### Hi I'm Dolicon! 👋
-### Currently studying CS in Singapore
+### Hi I'm Dolicon/Dylan (SIT 2101372)! 👋
+### Currently studying CS in Singapore (SIT)
 ### I'm bad at coding (╯°□°）╯︵ ┻━┻
 ### Dolicon#8638
 
