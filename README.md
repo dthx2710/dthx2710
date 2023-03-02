@@ -44,13 +44,13 @@
 <a href="https://expressjs.com" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 </a>  
+<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> 
+</a>  
 
 #### Web Frameworks
 <a href="https://nextjs.org/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> 
-</a>
-<a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/> 
 </a>
 
 #### Databases
