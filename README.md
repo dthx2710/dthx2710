@@ -62,6 +62,9 @@
 </a> 
 <a href="https://www.sqlite.org/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> 
+</a>
+<a href="https://www.mongodb.com/" target="_blank"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
 </a>  
 
 #### Mobile Development
