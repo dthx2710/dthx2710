@@ -2,7 +2,7 @@
 
 ## About me
 - 🏫 I’m currently studying Computing Science in Singapore Institute of Technology (SIT - 2101372)
-- 🌱 I’m currently learning **NextJS** (Web) / **gRPC** (Microservices) / **LoRa-Mesh** (IoT)
+- 🌱 I’m currently learning **NextJS** (Web) / **gRPC** (Microservices) / **Kotlin** (Android) / **LoRa-Mesh** (IoT)
 - ✨ I'm passionate about Web Development Trends
 - I'm bad at coding (╯°□°）╯︵ ┻━┻
 - Contact me on Discord @ Dolicon#8638
