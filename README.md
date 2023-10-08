@@ -1,14 +1,14 @@
 # Hi I'm Dolicon 👋
 
 ## About me
-- 🏫 I’m currently studying Computing Science at Singapore Institute of Technology (SIT - 2101372)
+- 🏫 Currently studying Computing Science at Singapore Institute of Technology (SIT - 2101372)
 - ✨ I'm passionate about Web Development Trends & Cloud Native Technologies
-- 🤔 Neverending Loop of Imposter Syndrome (╯°□°）╯︵ ┻━┻
+- 🤔 Stuck in a never-ending loop of Imposter Syndrome (╯°□°）╯︵ ┻━┻
 - 💬 Contact me on [LinkedIn](https://www.linkedin.com/in/dylan-tok-hong-xun/) or Discord @ Dolicon
 
 ## Language & Tools
 
-#### Programming Languages
+### Programming Languages
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> 
 </a> 
