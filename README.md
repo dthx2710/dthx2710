@@ -3,7 +3,7 @@
 ## About me
 - 🏫 I’m currently studying Computing Science at Singapore Institute of Technology (SIT - 2101372)
 - ✨ I'm passionate about Web Development Trends & Cloud Native Technologies
-- 🤔 I'm bad at coding (╯°□°）╯︵ ┻━┻
+- 🤔 Neverending Loop of Imposter Syndrome (╯°□°）╯︵ ┻━┻
 - 💬 Contact me on [LinkedIn](https://www.linkedin.com/in/dylan-tok-hong-xun/) or Discord @ Dolicon
 
 ## Language & Tools
