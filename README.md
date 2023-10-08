@@ -36,7 +36,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jamstack/jamstack-original-wordmark.svg" alt="jamstack" width="80" height="80"/>
 </a>
 <a href="https://nextjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="80" height="80"/> 
+    <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="80" height="80"/> 
+</a>
+<a href="https://html.spec.whatwg.org/multipage/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jamstack/jamstack-original-wordmark.svg" alt="jamstack" width="80" height="80"/>
 </a>
 <a href="https://nodejs.org" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> 
@@ -47,6 +50,9 @@
 <a href="https://flask.palletsprojects.com/en/2.2.x/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="80" height="80"/> 
 </a>
+<a href="https://kotlinlang.org/" target="_blank"> 
+  <img src="https://github.com/devicons/devicon/raw/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="80" height="80"/> 
+</a>
 <a href="https://www.postgresql.org" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="80" height="80"/> 
 </a>
@@ -55,6 +61,12 @@
 </a>
 <a href="https://firebase.google.com/" target="_blank"> 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="80" height="80"/> 
+</a>
+<a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-original-wordmark.svg" alt="git" width="80" height="80"/> 
+</a>
+<a href="https://code.visualstudio.com/" target="_blank"> 
+  <img src="https://github.com/devicons/devicon/raw/master/icons/vscode/vscode-original-wordmark.svg" alt="vsc" width="80" height="80"/> 
 </a>
 <a href="https://kafka.apache.org/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original-wordmark.svg" alt="kafka" width="80" height="80"/> 
@@ -65,6 +77,9 @@
 <a href="https://kubernetes.io/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="k8s" width="80" height="80"/> 
 </a>
+<a href="https://cloud.google.com/?hl=en" target="_blank"> 
+  <img src="https://github.com/devicons/devicon/raw/master/icons/googlecloud/googlecloud-original-wordmark.svg" alt="gcloud" width="80" height="80"/> 
+</a>
 
 ## Notable Projects
 
@@ -74,7 +89,9 @@
 
 - **FoodFriend (Dell InnovateFest 2023)** - [LinkedIn](https://www.linkedin.com/posts/dylan-tok-hong-xun_dellinnovatefest-sitpathmakers-activity-7111645604912537601-Tjif?utm_source=share&utm_medium=member_desktop)
 
-   Description: FoodFriend is an inclusive Mobile Application dedicated to reducing friction in accessing our common F&B spaces by effectively communicating their preferences to the vendors, promoting self-sufficiency and basic financial literacy. It is built on a cloud-native approach with a scalable microservices architecture. Additional technologies used were data science to recommend similar food choices based on order history and OCR for a streamlined stall vendor onboarding process (uploading menu images).
+   FoodFriend is an inclusive Mobile Application dedicated to reducing friction in accessing our common F&B spaces by effectively communicating their preferences to the vendors, promoting self-sufficiency and basic financial literacy.
+
+  It is built on a cloud-native approach with a scalable microservices architecture. Additional technologies used were data science to recommend similar food choices based on order history and OCR for a streamlined stall vendor onboarding process (uploading menu images).
 
 - **Instant Messaging with gRPC (TikTok Tech Immersion 2023 Backend Assignment)** - [GitHub](https://github.com/dthx2710/ttti-2023-asgn)
 
